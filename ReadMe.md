@@ -1,6 +1,9 @@
 ## Business Context:
 This project analyzes the contribution of multiple digital marketing channels throughout the customer journey, aiming to identify the impact of each channel on conversions and how their combination can be optimized to maximize business results.
 
+## Dataset:
+The dataset used in this project is not included in the repository due to its size.
+
 ## Main Question:
 Which marketing channels contribute the most to conversions throughout the customer journey, and how can their combination be optimized to maximize sales?
 
